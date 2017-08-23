@@ -1,0 +1,1 @@
+# Config Camera with Cordova
